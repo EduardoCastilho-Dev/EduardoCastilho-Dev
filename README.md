@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eduardo Castilho
+- 👀 I’m interested in learn to develop websites and programs
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate on with freelance work
+- 📫 How to reach me by email eduardocastilho698@gmail.com
